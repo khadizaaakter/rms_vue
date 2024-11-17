@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "name": "anamika",
+      "email": "anamika@gmail.com",
+      "password": "abc",
+      "id": "dd57"
+    },
+    {
+      "id": "950e",
+      "user": [
+        {
+          "name": "anamika",
+          "email": "anamika@gmail.com",
+          "password": "abc"
+        }
+      ]
+    },
+    {
+      "id": "a87b",
+      "user": [
+        {
+          "name": "Khadiza",
+          "email": "Khadiza@gmail.com",
+          "password": "abc"
+        }
+      ]
+    }
+  ]
+}
